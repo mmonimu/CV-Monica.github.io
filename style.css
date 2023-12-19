@@ -51,7 +51,7 @@ header .contenedor-texto {
 	display: flex;
 	justify-content: center;
 	align-content: center;
-	margin: 190px 0;
+	margin: 90px;
 }
 
 header .contenedor-texto, texto{
